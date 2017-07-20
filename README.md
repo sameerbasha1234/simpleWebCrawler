@@ -9,6 +9,9 @@ __ Run this program on Ubuntu is recommended.
 
 # How to run: 
 __ Run the "main.py" file.
+__ Input URL of the website you want to crawl.
+__ Input XPath string 
+(for more details, please see https://www.w3schools.com/xml/xpath_intro.asp)
 
 # Notes:
 __ Make sure you HTML is valid.
