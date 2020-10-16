@@ -1,5 +1,5 @@
 # simpleWebSpider
-An simple python program to crawl data from web
+A simple python program to crawl data from the web
 
 
 # Requirements:
